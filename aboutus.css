@@ -1,0 +1,46 @@
+h1{
+   font-family: 'Montserrat', sans-serif;
+   font-size: 4.5rem;
+   line-height: 1.5;
+   text-align: center;
+   margin-bottom: 10%;
+}
+p{
+   color:black;
+}
+.fluid-container{
+   
+   color:white;
+   padding: 10% 15% 7%;
+   height: auto;
+}
+body{
+   background-color: royalblue;
+}
+.navbar{
+   padding:0;
+}
+.navbar-brand{
+   font-family: 'ubuntu';
+   font-size: 1.5rem;
+   font-weight: bold;
+}
+.nav-item{
+   padding:0 18px;
+}
+.nav-link{
+   font-family: 'montserrat-light';
+   font-size: 1rem;
+}
+.title-img{
+   width:75%;
+   margin-left: 12%;
+   margin-top: 7%;
+}
+.image{
+   padding: 12% 0;
+   margin-top: 10%;
+   margin-left:15%;
+   border-radius: 50%;
+   background-color: white;
+}
