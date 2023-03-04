@@ -1,0 +1,29 @@
+img{
+   width:70%;
+}
+h1{
+   font-family: 'Montserrat-bold', sans-serif;
+   font-size: 4.5rem;
+   font-weight: bolder;
+}
+h2{
+   font-family: 'Montserrat-bold', sans-serif;
+   font-size: 3.5rem;
+}
+p{
+   font-family: 'Montserrat-bold', sans-serif;
+   font-size: 1.5rem;
+}
+input {
+   padding: 15%;
+   margin: 10%;
+   border-top-style: hidden;
+   border-right-style: hidden;
+   border-left-style: hidden;
+   border-bottom-style: groove;
+   background-color: #fff;
+ }
+ i{
+   margin-top: 20%;
+   margin-right: 5%;
+}
